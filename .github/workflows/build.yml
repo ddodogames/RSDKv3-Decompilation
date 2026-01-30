@@ -9,7 +9,7 @@ on:
       - platforms/**
       - .github/workflows/build.yml
       - CMakeLists.txt
-    branches: 
+    branches:
       - master
 
 env:
